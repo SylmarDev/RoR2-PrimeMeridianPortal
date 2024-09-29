@@ -1,0 +1,10 @@
+C:\Users\Sylvia\Desktop\Projects\RoR2-BossRush\RoR2-BossRush\obj\Release\netstandard2.1\RoR2-BossRush.csproj.AssemblyReference.cache
+C:\Users\Sylvia\Desktop\Projects\RoR2-BossRush\RoR2-BossRush\obj\Release\netstandard2.1\RoR2-BossRush.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sylvia\Desktop\Projects\RoR2-BossRush\RoR2-BossRush\obj\Release\netstandard2.1\RoR2-BossRush.AssemblyInfoInputs.cache
+C:\Users\Sylvia\Desktop\Projects\RoR2-BossRush\RoR2-BossRush\obj\Release\netstandard2.1\RoR2-BossRush.AssemblyInfo.cs
+C:\Users\Sylvia\Desktop\Projects\RoR2-BossRush\RoR2-BossRush\obj\Release\netstandard2.1\RoR2-BossRush.csproj.CoreCompileInputs.cache
+C:\Users\Sylvia\Desktop\Projects\RoR2-BossRush\RoR2-BossRush\bin\Release\netstandard2.1\RoR2-BossRush.deps.json
+C:\Users\Sylvia\Desktop\Projects\RoR2-BossRush\RoR2-BossRush\bin\Release\netstandard2.1\RoR2-BossRush.dll
+C:\Users\Sylvia\Desktop\Projects\RoR2-BossRush\RoR2-BossRush\bin\Release\netstandard2.1\RoR2-BossRush.pdb
+C:\Users\Sylvia\Desktop\Projects\RoR2-BossRush\RoR2-BossRush\obj\Release\netstandard2.1\RoR2-BossRush.dll
+C:\Users\Sylvia\Desktop\Projects\RoR2-BossRush\RoR2-BossRush\obj\Release\netstandard2.1\RoR2-BossRush.pdb

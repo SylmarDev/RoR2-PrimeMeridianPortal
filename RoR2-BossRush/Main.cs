@@ -16,19 +16,26 @@ using SylmarDev.RoR2BossRush;
 using System.IO;
 using System.Numerics;
 using System.Resources;
+using System.Security;
+using System.Security.Permissions;
 
-namespace SylmarDev.KannasQoL
+[module: UnverifiableCode]
+#pragma warning disable CS0618 // Type or member is obsolete
+[assembly: SecurityPermission(SecurityAction.RequestMinimum, SkipVerification = true)]
+#pragma warning restore CS06118 // Type or member is obsolete
+
+namespace SylmarDev.RoR2BossRush
 {
     [BepInDependency(DirectorAPI.PluginGUID)]
     [BepInPlugin(PluginGUID, PluginName, PluginVersion)]
     [NetworkCompatibility(CompatibilityLevel.EveryoneMustHaveMod)]
 
-    public class KannasQoL : BaseUnityPlugin
+    public class Main : BaseUnityPlugin
     {
         public const string PluginAuthor = "SylmarDev";
-        public const string PluginName = "RoR2BossRush";
+        public const string PluginName = "FalseSonPortal";
         public const string PluginGUID = PluginAuthor + "." + PluginName;
-        public const string PluginVersion = "0.3.2";
+        public const string PluginVersion = "1.0.0";
 
         //The Awake() method is run at the very start when the game is initialized.
         public void Awake()
@@ -70,6 +77,11 @@ namespace SylmarDev.KannasQoL
                 // force portal to take you to Prime Meridian so you don't have to seek the whole storm
                 Stage.instance.sceneDef.stageOrder = 3;
             }
+        }
+
+        private void Update()
+        {
+
         }
     }
 }

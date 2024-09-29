@@ -5,6 +5,12 @@ VisualStudioVersion = 17.7.34202.233
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RoR2-BossRush", "RoR2-BossRush.csproj", "{1BE1D427-AA87-4332-B3E1-0125F7526197}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Metadata", "Metadata", "{135009D6-03BB-4386-B94F-9E979AAA2C3B}"
+	ProjectSection(SolutionItems) = preProject
+		..\manifest.json = ..\manifest.json
+		..\README.md = ..\README.md
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
