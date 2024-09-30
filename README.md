@@ -8,6 +8,10 @@ If you run into any issues while playing that this is mod is causing you feel fr
 
 ## Changelog
 
+### **1.0.1**
+
+Correct link in manifest, oops
+
 ### **1.0.0**
 
 Initial Release

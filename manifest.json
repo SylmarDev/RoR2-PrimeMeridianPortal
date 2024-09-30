@@ -1,6 +1,6 @@
 ﻿{
 	"name": "FalseSonPortal",
-	"version_number": "1.0.0",
+	"version_number": "1.0.1",
 	"website_url": "https://github.com/SylmarDev/RoR2-PrimeMeridianPortal",
 	"description": "Adds a Prime Meridian portal that spawns after defeating Voidling",
 	"dependencies": [
