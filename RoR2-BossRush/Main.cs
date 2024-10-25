@@ -2,22 +2,10 @@
 using R2API;
 using R2API.Utils;
 using RoR2;
-using UnityEngine;
-using System;
-using UnityEngine.Networking;
-using System.Collections.Generic;
-using EntityStates;
-using MonoMod.Cil;
-using Mono.Cecil.Cil;
-using EntityStates.Duplicator;
-using UnityEngine.AddressableAssets;
-using Microsoft.VisualBasic;
-using SylmarDev.RoR2BossRush;
-using System.IO;
-using System.Numerics;
-using System.Resources;
 using System.Security;
 using System.Security.Permissions;
+using UnityEngine.AddressableAssets;
+using UnityEngine.Networking;
 
 [module: UnverifiableCode]
 #pragma warning disable CS0618 // Type or member is obsolete
